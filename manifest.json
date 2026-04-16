@@ -2,6 +2,7 @@
   "name": "EngTech App",
   "short_name": "EngTech",
   "start_url": "/engtech-app/",
+  "scope": "/engtech-app/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#16a34a",
