@@ -1,14 +1,22 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "EngTech App",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "EngTech",
-  "start_url": "https://irenioengtech-jpg.github.io/engtech-app/",
+  "start_url": "/engtech-app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
   "theme_color": "#16a34a",
   "description": "App EngTech para controle de documentos e gestão de SST",
-  "id": "engtech.app.sst",
-  "lang": "pt"
+  "lang": "pt",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/847/847969.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/847/847969.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
